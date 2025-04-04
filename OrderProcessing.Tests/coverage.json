@@ -1,0 +1,326 @@
+{
+  "OrderProcessing.dll": {
+    "/Users/nals_macbook_282/Documents/huyhq/learning/UnitTest/Practices/OrderProcessing/OrderProcessingService.fs": {
+      "OrderProcessing.OrderProcessingService": {
+        "System.Boolean OrderProcessing.OrderProcessingService::processOrders(OrderProcessing.IDatabaseService,OrderProcessing.IAPIClient,System.Int32)": {
+          "Lines": {
+            "32": 4,
+            "33": 4,
+            "35": 4,
+            "36": 1,
+            "38": 6,
+            "39": 3,
+            "40": 3,
+            "41": 3,
+            "42": 3,
+            "43": 3,
+            "44": 3,
+            "45": 3,
+            "46": 3,
+            "47": 3,
+            "48": 3,
+            "49": 3,
+            "50": 3,
+            "51": 0,
+            "52": 0,
+            "53": 3,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 3,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 3,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 3,
+            "69": 0,
+            "70": 0,
+            "71": 3,
+            "72": 0,
+            "73": 0,
+            "74": 3,
+            "75": 3,
+            "76": 3,
+            "77": 0,
+            "78": 3,
+            "79": 3,
+            "80": 3,
+            "81": 3,
+            "82": 5,
+            "83": 1,
+            "84": 1,
+            "85": 3,
+            "86": 3,
+            "87": 3,
+            "88": 0,
+            "89": 0
+          },
+          "Branches": [
+            {
+              "Line": 35,
+              "Offset": 16,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 35,
+              "Offset": 16,
+              "EndOffset": 25,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 85,
+              "Offset": 1440,
+              "EndOffset": 46,
+              "Path": 1,
+              "Ordinal": 31,
+              "Hits": 3
+            },
+            {
+              "Line": 40,
+              "Offset": 80,
+              "EndOffset": 82,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 94,
+              "EndOffset": 99,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 80,
+              "EndOffset": 121,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 48,
+              "Offset": 302,
+              "EndOffset": 304,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 3
+            },
+            {
+              "Line": 48,
+              "Offset": 302,
+              "EndOffset": 319,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 52,
+              "Offset": 450,
+              "EndOffset": 452,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 52,
+              "Offset": 450,
+              "EndOffset": 505,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 94,
+              "EndOffset": 525,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 562,
+              "EndOffset": 567,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 586,
+              "EndOffset": 588,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 586,
+              "EndOffset": 609,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 611,
+              "EndOffset": 613,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 611,
+              "EndOffset": 669,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 674,
+              "EndOffset": 676,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 674,
+              "EndOffset": 680,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 688,
+              "EndOffset": 690,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 688,
+              "EndOffset": 746,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 562,
+              "EndOffset": 802,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 67,
+              "Offset": 904,
+              "EndOffset": 906,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 67,
+              "Offset": 904,
+              "EndOffset": 959,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 111,
+              "EndOffset": 979,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 987,
+              "EndOffset": 989,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 987,
+              "EndOffset": 1041,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 111,
+              "EndOffset": 1093,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 76,
+              "Offset": 1164,
+              "EndOffset": 1166,
+              "Path": 0,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 76,
+              "Offset": 1164,
+              "EndOffset": 1218,
+              "Path": 1,
+              "Ordinal": 27,
+              "Hits": 3
+            },
+            {
+              "Line": 84,
+              "Offset": 1355,
+              "EndOffset": 1357,
+              "Path": 0,
+              "Ordinal": 28,
+              "Hits": 1
+            },
+            {
+              "Line": 84,
+              "Offset": 1355,
+              "EndOffset": 1414,
+              "Path": 1,
+              "Ordinal": 29,
+              "Hits": 0
+            },
+            {
+              "Line": 85,
+              "Offset": 1440,
+              "EndOffset": 1445,
+              "Path": 0,
+              "Ordinal": 30,
+              "Hits": 3
+            }
+          ]
+        }
+      }
+    }
+  }
+}
