@@ -1,5 +1,10 @@
 # FSharp_UnitTests_Exam
 
+###### Go to the Tests project
+```
+cd OrderProcessing.Tests
+```
+
 ###### Execute test with coverage enable
 ```
 dotnet test /p:CollectCoverage=true /p:CoverletOutput=./coverage/ /p:CoverletOutputFormat=cobertura
